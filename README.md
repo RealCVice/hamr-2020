@@ -41,6 +41,8 @@ My master's thesis where I fully explain the model used in the prediction tool (
 
 My ISMIR 2020 LBD Poster were I also present the model methodology: https://program.ismir2020.net/lbd_433.html
 
+HAMR Video Report: https://www.youtube.com/watch?v=nQb-fRebUhk
+
 HAMR slides: https://docs.google.com/presentation/d/1u4AJjzmqWdrmm9-l-d4AN4uQFHU3iyYUrKbT4PmaNPI/edit?usp=sharing
 
 Spotify API documentation: https://developer.spotify.com/documentation/
